@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "py-dev-site",
+    "deployed": "py-dev-site"
+  }
+}
